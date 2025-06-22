@@ -1,5 +1,5 @@
 hi im koishii!
 
-um im interested in modding zzz cbt 1 and latest
+currently: working on a rhythm game, working on a platformer game, and learning how to RE!
 
 discord: openfl_
