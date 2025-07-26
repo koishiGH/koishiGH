@@ -4,4 +4,4 @@ currently: working on a rhythm game, working on a platformer game, and learning 
 
 discord: _koisprite
 
-my discord server: https://discord.gg/nBRMrrjw
+my discord server: https://discord.gg/7umw5ZEY94
