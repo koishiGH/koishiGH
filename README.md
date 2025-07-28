@@ -1,6 +1,6 @@
 hi im koishii!
 
-currently: working on a rhythm game, working on a platformer game, and learning how to RE!
+currently: working on a pc port of a android game, and a reimplementation while learning how to RE
 
 discord: _koisprite
 
