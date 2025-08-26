@@ -1,6 +1,6 @@
 hi im koishii!
 
-currently: working on a pc port of a android game, and a reimplementation while learning how to RE
+currently: unity game ports & school
 
 discord: _koisprite
 
