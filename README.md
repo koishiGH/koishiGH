@@ -1,8 +1,8 @@
 hi im koishii!
 
-currently: unity game ports & school
+what I'm currently working on: slipknot, koi art framework, and school
 
-discord: _koisprite
+discord: flxsprite
 
 my discord server: https://discord.gg/7umw5ZEY94
 
